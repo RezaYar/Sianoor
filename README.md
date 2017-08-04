@@ -1,2 +1,0 @@
-# Sianoor
-telegram
